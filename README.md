@@ -86,6 +86,8 @@ Awesome Courses: https://github.com/prakhar1989/awesome-courses
 
 ❤️❤️❤️❤️ Mozilla Developer Network: https://developer.mozilla.org/en-US/ ❤️❤️❤️❤️
 
+Google: https://developers.google.com/web/
+
 Awesome Awesome: [Github](https://github.com/sindresorhus/awesome)
 
 Learn-Anything: https://learn-anything.xyz/
