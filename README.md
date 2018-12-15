@@ -136,6 +136,8 @@ noShit: https://noshit.xyz/
 
 ## javaScript:
 
+33 Js Concepts: https://github.com/leonardomso/33-js-concepts
+
 ❤️❤️ JavaScript30: https://javascript30.com/
 
 HackerNoon: https://hackernoon.com/javascript/home
