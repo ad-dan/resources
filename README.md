@@ -188,6 +188,8 @@ SVGRepo: https://www.svgrepo.com/
 
 Compress - TinyPNG: https://tinypng.com/
 
+icons8: https://icons8.com/
+
 Compressor.io
 
 ## Open Source:
