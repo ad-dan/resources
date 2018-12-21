@@ -168,6 +168,8 @@ CSS Shapes: https://1stwebdesigner.com/css-shapes/
 
 Color Palettes: http://trendypalettes.com/
 
+bAda55: http://bada55.io/
+
 ## Design:
 
 Dribble: https://dribbble.com/
