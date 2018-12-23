@@ -178,6 +178,8 @@ UX Animations: [Medium](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-
 
 Canva: https://www.canva.com/learn/website-color-schemes/
 
+Google for Colors: https://picular.co/
+
 ## Gradients
 
 WebGradients: https://webgradients.com/
