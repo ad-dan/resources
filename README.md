@@ -180,6 +180,8 @@ Canva: https://www.canva.com/learn/website-color-schemes/
 
 Google for Colors: https://picular.co/
 
+CSS Loaders: https://loading.io/css/
+
 ## Gradients
 
 WebGradients: https://webgradients.com/
