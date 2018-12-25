@@ -108,6 +108,8 @@ r/WebDev Resources: [Reddit](https://www.reddit.com/r/webdev/comments/1v7en8/web
 
 DevDocs: https://devdocs.io/
 
+Google Domains: https://domains.google/
+
 ## Cool stuff:
 
 Repl.it: https://repl.it/
