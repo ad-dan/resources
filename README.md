@@ -190,6 +190,10 @@ WebGradients: https://webgradients.com/
 
 GradientHunt: https://gradienthunt.com/
 
+SVGBackgrounds: https://www.svgbackgrounds.com/
+
+SVGPatterns: https://philiprogers.com/svgpatterns
+
 ## Images
 
 SVGRepo: https://www.svgrepo.com/
