@@ -194,6 +194,8 @@ SVGBackgrounds: https://www.svgbackgrounds.com/
 
 SVGPatterns: https://philiprogers.com/svgpatterns
 
+HeroPatterns: https://www.heropatterns.com/
+
 ## Images
 
 SVGRepo: https://www.svgrepo.com/
@@ -201,6 +203,8 @@ SVGRepo: https://www.svgrepo.com/
 Compress - TinyPNG: https://tinypng.com/
 
 icons8: https://icons8.com/
+
+
 
 Compressor.io
 
